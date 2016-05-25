@@ -1,0 +1,12 @@
+{
+    "name": "vue-select",
+    "description": "A selectbox replacement with search field as a vue mixin",
+    "repos": "https://github.com/onefriendaday/vue-select.git",
+    "main": "select.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "vue": "^0.12"
+    },
+    "version": "0.1.0"
+}
